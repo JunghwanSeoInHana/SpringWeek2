@@ -1,9 +1,9 @@
-package com.hanatour.demo.spring_01;
+package com.hanatour.demo.spring_02;
 
-import com.hanatour.demo.spring_01.exception.MethodNotAllowedException;
-import com.hanatour.demo.spring_01.exception.PathNotFoundException;
-import com.hanatour.demo.spring_01.service.calculate.CalculatorService;
-import com.hanatour.demo.spring_01.servlet.HttpRequest;
+import com.hanatour.demo.spring_02.exception.MethodNotAllowedException;
+import com.hanatour.demo.spring_02.exception.PathNotFoundException;
+import com.hanatour.demo.spring_02.service.calculate.CalculatorService;
+import com.hanatour.demo.spring_02.servlet.HttpRequest;
 import org.springframework.stereotype.Component;
 
 import java.util.Map;

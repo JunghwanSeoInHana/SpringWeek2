@@ -1,10 +1,10 @@
-package com.hanatour.demo.spring_01;
+package com.hanatour.demo.spring_02;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Spring01ApplicationTests {
+class Spring02ApplicationTests {
 
 	@Test
 	void contextLoads() {

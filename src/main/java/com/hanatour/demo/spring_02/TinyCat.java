@@ -1,11 +1,11 @@
-package com.hanatour.demo.spring_01;
+package com.hanatour.demo.spring_02;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator;
-import com.hanatour.demo.spring_01.servlet.HttpResponse;
-import com.hanatour.demo.spring_01.servlet.ServletService;
+import com.hanatour.demo.spring_02.servlet.HttpResponse;
+import com.hanatour.demo.spring_02.servlet.ServletService;
 import org.springframework.context.ApplicationContext;
 
 import java.io.IOException;

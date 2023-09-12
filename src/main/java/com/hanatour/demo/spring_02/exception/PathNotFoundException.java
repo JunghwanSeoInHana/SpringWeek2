@@ -1,4 +1,4 @@
-package com.hanatour.demo.spring_01.exception;
+package com.hanatour.demo.spring_02.exception;
 
 public class PathNotFoundException extends RuntimeException {
 }

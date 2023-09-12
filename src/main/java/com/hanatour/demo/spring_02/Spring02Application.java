@@ -1,12 +1,12 @@
-package com.hanatour.demo.spring_01;
+package com.hanatour.demo.spring_02;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-public class Spring01Application {
+public class Spring02Application {
 
     public static void main(String[] args) {
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext();
-        context.scan(Spring01Application.class.getPackageName());
+        context.scan(Spring02Application.class.getPackageName());
         context.refresh();
 
         int tinyCatPort = 8080;

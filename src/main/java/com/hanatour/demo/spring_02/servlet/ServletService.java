@@ -1,6 +1,6 @@
-package com.hanatour.demo.spring_01.servlet;
+package com.hanatour.demo.spring_02.servlet;
 
-import com.hanatour.demo.spring_01.RequestHandler;
+import com.hanatour.demo.spring_02.RequestHandler;
 import org.springframework.stereotype.Component;
 
 import java.io.IOException;

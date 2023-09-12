@@ -1,4 +1,4 @@
-package com.hanatour.demo.spring_01.servlet;
+package com.hanatour.demo.spring_02.servlet;
 
 import io.micrometer.common.util.StringUtils;
 import org.springframework.stereotype.Component;
